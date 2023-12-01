@@ -1,4 +1,4 @@
-<h1 align="center">𝐻𝒾 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 𝐸𝒹𝓊𝒶𝓇𝒹
+<h1 align="center">​🇭​​🇮​ ​🇹​​🇭​​🇪​​🇷​​🇪​, ​🇮​`​🇲​ ​🇪​​🇩​​🇺​​🇦​​🇷​​🇩
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">ᴀ ɴᴏᴠɪᴄᴇ ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ.</h3>
 <p>
