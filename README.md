@@ -5,10 +5,16 @@
   Я начинающий Python-разработчик. На сегодняшний день прохожу курс на платформе Skillbox.
 </p> 
 <p>
-  -Работаю с алгоритмами и типами данных в Python; 
-  -Освоил базовые принципы ООП; 
-  -работаю с базами данных, в частности SQlite, и API сторонних сервисов. 
-  -Создаю телеграм-ботов полезных для бизнеса.
+  Работаю с алгоритмами и типами данных в Python; 
+  <p>
+    Освоил базовые принципы ООП;
+  </p>
+  <p>
+    работаю с базами данных, в частности SQlite, и API сторонних сервисов. 
+  </p>
+   <p>
+    Создаю телеграм-ботов полезных для бизнеса.
+  </p>
 </p>
 <p>
   Параллельно изучаю HTML, CSS, Django, Flash, Docker и другое.
@@ -16,16 +22,21 @@
 <p>
   Я открыт к критике и оптимизации моего кода)
 </p>
-<p>
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="40"
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="40"
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="40"
-</p>
-<p>
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="40"
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)" height="40"
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40"
-</p>
+<table border="0" cellspacing="0" cellpadding="10">
+  <caption></caption>
+  <tr>
+    <td><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="40"</td>
+    <td><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="40"</td>
+    <td><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="40"</td>
+  </tr>
+    <tr>
+    <td><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="40"</td>
+    <td><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)" height="40"</td>
+    <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40"</td>
+  </tr>
+</table>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 How to reach me rogozhnikoved@gmail.com
