@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">ᴀ ɴᴏᴠɪᴄᴇ ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ.</h3>
 <p>
-  Я начинающий Python-разработчик. На сегодняшний день прохожу курс на платформе Skillbox.
+  Я начинающий Python-разработчик.
 </p> 
 <p>
   Работаю с алгоритмами и типами данных в Python; 
