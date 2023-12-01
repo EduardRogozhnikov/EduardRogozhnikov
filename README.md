@@ -22,7 +22,7 @@
 <p>
   Я открыт к критике и оптимизации моего кода)
 </p>
-<table border="0" cellspacing="0" cellpadding="10">
+<table border="0" cellspacing="0" cellpadding="15">
   <caption></caption>
   <tr>
     <td><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="40"</td>
