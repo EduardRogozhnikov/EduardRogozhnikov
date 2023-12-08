@@ -1,6 +1,6 @@
 <h1 align="center">​🇭​​🇮​ ​🇹​​🇭​​🇪​​🇷​​🇪​, ​🇮​`​🇲​ ​🇪​​🇩​​🇺​​🇦​​🇷​​🇩
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">ᴀ ɴᴏᴠɪᴄᴇ ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ.</h3>
+<h3 align="center">ᴀ ɴᴏᴠɪᴄᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ.</h3>
 <p>
   Я начинающий Python-разработчик.
 </p> 
