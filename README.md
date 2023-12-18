@@ -20,9 +20,6 @@
   Параллельно изучаю HTML, CSS, Django, Flash, Docker и другое.
 </p>
 <p> Верстаю email-письма для бизнес рассылок </p>
-<p>
-  Открыт к критике и оптимизации моего кода)
-</p>
 <table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
   <caption></caption>
   <tr>
