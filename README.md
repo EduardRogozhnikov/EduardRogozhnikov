@@ -17,7 +17,7 @@
   </p>
 </p>
 <p>
-  Параллельно изучаю HTML, CSS, Django, Flash, Docker и другое.
+  Параллельно изучаю HTML, CSS, Django, Flask, Docker и другое.
 </p>
 <p> Верстаю адаптивные email-письма для бизнес рассылок </p>
 <table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
