@@ -1,26 +1,15 @@
 <h1 align="center">​🇭​​🇮​ ​🇹​​🇭​​🇪​​🇷​​🇪​, ​🇮​`​🇲​ ​🇪​​🇩​​🇺​​🇦​​🇷​​🇩
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">ᴀ ɴᴏᴠɪᴄᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ.</h3>
-<p>
-  Я Python-разработчик.
-</p> 
-<p>
-  Работаю с алгоритмами и типами данных в Python; 
-  <p>
-    Освоил базовые принципы ООП;
-  </p>
-  <p>
-    Работаю с базами данных, в частности SQlite, и API сторонних сервисов. 
-  </p>
-   <p>
-    Создаю телеграм-ботов полезных для бизнеса.
-  </p>
-</p>
-<p>
-  Параллельно изучаю HTML, CSS, Django, Flask, Docker и другое.
-</p>
-<p> Верстаю адаптивные email-письма для бизнес рассылок </p>
-<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+
+
+<p>Я Python-разработчик. Работаю с алгоритмами и типами данных в Python, базами данных, в частности SQlite, API сторонних сервисов, Flask и др.</p>
+<p>Освоил HTML и CSS. Создаю полезных для бизнеса ботов в телеграм и верстаю адаптивные email-письма для бизнес рассылок.</p>
+<p>Параллельно изучаю Django, SQLAlchemy, NoSQL, Docker, Pyramid, FastAPI и другое.</p>
+<br>
+
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation" style="margin=20px;">
   <caption></caption>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40"</td>
