@@ -5,7 +5,7 @@
 
 <p>Я Python-разработчик. Работаю с алгоритмами и типами данных в Python, базами данных, в частности SQlite, API сторонних сервисов, Flask и др.</p>
 <p>Освоил HTML и CSS. Создаю полезных для бизнеса ботов в телеграм и верстаю адаптивные email-письма для бизнес рассылок.</p>
-<p>Параллельно изучаю Django, SQLAlchemy, NoSQL, Docker, Pyramid, FastAPI и другое.</p>
+<p>Параллельно изучаю Django, SQLAlchemy, NoSQL, Docker, Pyramid, FastAPI, SQLAlchemy и другое.</p>
 <br>
 
 
