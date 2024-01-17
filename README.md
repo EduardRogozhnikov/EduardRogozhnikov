@@ -3,11 +3,13 @@
 <h3 align="center">ᴀ ɴᴏᴠɪᴄᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ.</h3>
 
 
-<p>Я Python-разработчик. Работаю с алгоритмами и типами данных в Python, базами данных, в частности SQlite, API сторонних сервисов, Flask, SQLAlchemy и др.</p>
-<p>Освоил HTML и CSS. Создаю полезных для бизнеса ботов в телеграм и верстаю адаптивные email-письма для бизнес рассылок.</p>
-<p>Параллельно изучаю Django, Docker</p>
-<br>
-
+<p>
+  Я Python-разработчик.
+  Работаю с базами данных, в частности SQlite, и API сторонних сервисов, делаю телеграмм ботов для бизнеса.
+  <br>Имею навык работы на Flask, Linux, Git, SQLAlchemy, Docker, Postgres, Redis, FastAPI и языках HTML и CSS.
+  Верстаю стильные email-письма для рассылок.
+  <br>С недавнего времени начал вести старничку в GitHub и постепенно обновляю старые и добавляю новые примеры своих работ
+</p>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation" style="margin=20px;">
   <caption></caption>
