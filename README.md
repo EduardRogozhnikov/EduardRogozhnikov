@@ -5,8 +5,8 @@
 
 <p>
   Я Python-разработчик.
-  Работаю с базами данных, в частности SQlite, и API сторонних сервисов, делаю телеграмм ботов для бизнеса.
-  <br>Имею навык работы на Flask, Linux, Git, SQLAlchemy, Docker, Postgres, Redis, FastAPI и языках HTML и CSS.
+  Работаю с базами данных, в частности SQlite и PostgreSQL, и API сторонних сервисов, делаю телеграмм ботов для бизнеса.
+  <br>Имею навык работы на Flask, Linux, Git, SQLAlchemy, Docker, Redis, FastAPI, Pydantic, Alembic, и языках HTML и CSS.
   Верстаю стильные email-письма для рассылок.
   <br>С недавнего времени начал вести старничку в GitHub и постепенно обновляю старые и добавляю новые примеры своих работ
 </p>
