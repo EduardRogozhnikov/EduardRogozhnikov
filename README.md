@@ -8,7 +8,7 @@
   Работаю с базами данных, в частности SQlite и PostgreSQL, и API сторонних сервисов, делаю телеграмм ботов для бизнеса.
   <br>Имею навык работы на Flask, Linux, Git, SQLAlchemy, Docker, Redis, FastAPI, Pydantic, Alembic, и языках HTML и CSS.
   Верстаю стильные email-письма для рассылок.
-  <br>С недавнего времени начал вести старничку в GitHub и постепенно обновляю старые и добавляю новые примеры своих работ
+  <br>С недавнего времени начал вести страничку в GitHub и постепенно обновляю старые и добавляю новые примеры своих работ
 </p>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" role="presentation" style="margin=20px;">
